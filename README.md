@@ -1,7 +1,25 @@
-# msc_project
-
-# Title
+## Title
 Estimating user’s emotion from non-verbal behaviour in communication
 
-# Abstract
-Interactions between humans and computers will become more natural as computers perceive non- verbal communication, such as human emotions, and modify their conversational strategies. This paper focuses on developing a model for estimating users’ emotions in communication from multi- modal features to support application users with intelligent agents. For this purpose, we use a mul- timodal dataset containing features of the face, eyes, mouth and posture of participants observed in presentations and conversations in 14 videos. The dataset also contains English subtitles of what each participant said, and we perform sentiment analysis using a pre-trained BERT model to pre- pare user emotion categories. We extracted various features such as face, eyes, mouth and posture movements to estimate the emotional category of the user. From these features, we created clas- sification models for inferring Ekman-level and Group-level emotional categories using Pytorch’s three-layer neural network and random forest and evaluated the accuracy of the emotional category estimation. As a result of our experiments, multimodal models achieved a classification accuracy of 0.82 at the Ekman level and 0.96 at the Group level. Despite the limited amount of non-verbal information in the dataset used in this project, we believe that the model has an excellent potential to predict users’ emotions. In addition, we were able to collect non-verbal data from a video of a user talking to create an emotion estimation model. Using the same method for other videos, we obtained non-verbal information about the user’s face, hands, mouth, and posture, which we can use in future projects.
+## Abstract
+コンピュータが人間の感情などの非言語コミュニケーションを感知し、会話戦略を修正することで、人間とコンピュータのインタラクションはより自然なものになると考えられる。本論文では、知的エージェントによるアプリケーションユーザーを支援するために、マルチモーダルな特徴量からコミュニケーションにおけるユーザーの感情を推定するモデルの開発に焦点を当てる。この目的のために、14本のビデオでプレゼンテーションや会話を観察した参加者の顔、目、口、姿勢の特徴を含むマルチモーダルデータセットを使用する。また、このデータセットには、各参加者の発言内容の英語字幕が含まれており、事前に学習したBERTモデルを用いて感情分析を行い、ユーザの感情カテゴリを予め用意します。顔、目、口、姿勢の動きなど様々な特徴量を抽出し、ユーザーの感情カテゴリを推定しました。これらの特徴量から、Pytorchの3層ニューラルネットワークとランダムフォレストを用いて、EkmanレベルとGroupレベルの感情カテゴリを推定するクラス分類モデルを作成し、感情カテゴリの推定精度を評価した。実験の結果、マルチモーダルモデルは、Ekmanレベルで0.82、Groupレベルで0.96の分類精度を達成しました。今回使用したデータセットでは、非言語情報の量が限られているにもかかわらず、このモデルはユーザーの感情を予測する優れた可能性を持っていると考えています。さらに、ユーザーが話している動画から非言語データを収集し、感情推定モデルを作成することができました。他の動画についても同様の手法で、ユーザの顔、手、口、姿勢などの非言語情報を得ることができ、今後のプロジェクトで活用することができます。
+
+## Overall Objectives
+今回は下記の３つのモデルを作成しました。
+1. 顔、口、目のランドマークに関する特徴量から、フレームごとの感情カテゴリを予測するモデル
+2. 姿勢に関連する特徴量からフレームごとの感情カテゴリを予測するモデル
+3. 顔、口、目、姿勢に関する特徴量からフレームごとの感情カテゴリを予測するモデル(1+2)
+
+## Related Technologies
+1. BERT
+2. OpenFace
+3. OpenPose
+
+##  
+
+##　Script
+
+
+## Meeting materials
+毎週、教授とミーティングを行い、進捗報告をしました。
+その時に使用した資料を格納してます。
