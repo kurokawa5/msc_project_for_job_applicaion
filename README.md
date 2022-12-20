@@ -20,7 +20,7 @@ Distinction
 2. OpenFace
 3. OpenPose
 
-<img src="https://user-images.githubusercontent.com/76276773/208697300-cbbf41e3-b888-4a2a-a2b2-8ad03d003b5a.png" width="500"><img src="https://user-images.githubusercontent.com/76276773/208697315-be296f80-0373-42e4-8a9f-4d6b72e1decb.png" width="500">
+<img src="https://user-images.githubusercontent.com/76276773/208697300-cbbf41e3-b888-4a2a-a2b2-8ad03d003b5a.png" width="500"> <img src="https://user-images.githubusercontent.com/76276773/208697315-be296f80-0373-42e4-8a9f-4d6b72e1decb.png" width="500">
 
 ## Research Steps
 
