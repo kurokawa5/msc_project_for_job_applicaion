@@ -24,11 +24,18 @@ Distinction
 
 ## Research Steps
 
-## 
+<img src="https://user-images.githubusercontent.com/76276773/208707374-2f369c1b-580f-4996-9d6d-2499299f71ba.png" width="700">
 
+## Data Preparation
+
+### データ収集
+このプロジェクトでは、平均13分59秒の動画を14本収集しました。
+話者による発話数は1動画あたり平均269回であり、合計3761回でした。つまり、3761個の感情カテゴリーを得ることができました。
+
+### Sentiment Analysisの実施
+学習・評価データの目的変数として用いる感情カテゴリを用意するため、英語字幕の1文に対して感情分析を行いました。
 
 ##　Script
-
 
 ## Meeting materials
 毎週、教授とミーティングを行い、進捗報告をしました。
