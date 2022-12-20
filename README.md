@@ -37,9 +37,11 @@ Distinction
 ### Sentiment Analysisの実施
 学習・評価データの目的変数として用いる感情カテゴリを用意するため、英語字幕の1文に対して感情分析を行いました。
 
-##　Script
+## Script
 使用したスクリプトの格納先は以下となります。
+
 https://github.com/kurokawa5/msc_project_for_job_applicaion/tree/main/python
+
 https://github.com/kurokawa5/msc_project_for_job_applicaion/tree/main/sh
 
 ## 補足
