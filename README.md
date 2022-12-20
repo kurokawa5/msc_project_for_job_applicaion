@@ -49,10 +49,12 @@ https://github.com/kurokawa5/msc_project_for_job_applicaion/tree/main/sh
 実際のスケジュール感は以下の図のようなイメージです。
 
 モデル作成
-<img src="https://user-images.githubusercontent.com/76276773/208737538-dec6ec57-273a-4a26-a20a-c6cc6d0c0e8e.png" width="500"> 
+
+<img src="https://user-images.githubusercontent.com/76276773/208737538-dec6ec57-273a-4a26-a20a-c6cc6d0c0e8e.png" width="800"> 
 
 修論作成
-<img src="https://user-images.githubusercontent.com/76276773/208737560-6d4cecc9-53b1-4237-9e32-cc0be68c4835.png" width="500">
+
+<img src="https://user-images.githubusercontent.com/76276773/208737560-6d4cecc9-53b1-4237-9e32-cc0be68c4835.png" width="800">
 
 ### Meeting materials
 毎週、教授とミーティング(30分〜1時間)を行い、進捗報告をしました。
