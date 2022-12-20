@@ -1,7 +1,7 @@
 ## Title
 Estimating user’s emotion from non-verbal behaviour in communication
 
-<img src="https://user-images.githubusercontent.com/76276773/208693371-e3718fff-0fb2-48af-b908-ce9af16fadcc.jpeg" width="200">
+<img src="https://user-images.githubusercontent.com/76276773/208693371-e3718fff-0fb2-48af-b908-ce9af16fadcc.jpeg" width="800">
 
 ## Grade
 Distinction
