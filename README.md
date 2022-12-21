@@ -92,6 +92,36 @@ https://github.com/kurokawa5/msc_project_for_job_applicaion/tree/main/sh
 |  03_adding_time_information.ipynb  |  字幕文章の終了時刻とその差分 （終了時刻 - 開始時刻）を算出する |
 |  04_emotion_extraction_from_subtitles.ipynb  |  事前に学習したBERTモデル(GoEmotions PyTorch)を用いて、すべての文に感情を付与する |
 |  05_ffmpeg.ipynb  |  再生時間や差分に応じて動画（mp4、avi）を感情カテゴリー毎に切り出す  |
+|  06_run_openface.ipynb  |  OpenFaceを使って顔の座標点や視線推定を取得する（効率化するためにshスクリプトを用意した）  |
+|  07_openface_result_merged.ipynb  |  video毎に感情カテゴリ毎の出力結果（csvファイル）をマージする |
+|  08a_remove_success0.ipynb  |  OpenFace の結果で success=0（そもそも取得失敗しちゃった） の行を削除する。 |
+|  08b_features_selection_LR_ekman.ipynb  |  特徴量を少し選定して、アルゴリズムはロジスティック回帰を使用して、グリッドサーチを使用してモデルを探す（感情カテゴリはEkman） |
+|  08b_features_selection_LR_group.ipynb  |  特徴量を少し選定して、アルゴリズムはロジスティック回帰を使用して、グリッドサーチを使用してモデルを探す（感情カテゴリはGroup） |
+|  08b_features_selection_RF_ekman.ipynb  |  特徴量を少し選定して、アルゴリズムはランダムフォレストを使用して、グリッドサーチを使用してモデルを探す（感情カテゴリはEkman） |
+|  08b_features_selection_RF_group.ipynb  |  特徴量を少し選定して、アルゴリズムはランダムフォレストを使用して、グリッドサーチを使用してモデルを探す（感情カテゴリはGroup） |
+|  09_jsontocsv.ipynb  |  OpenPoseの出力結果(JSONファイル)をCSVファイルに変換する |
+|  09_run_openpose.ipynb  |  OpenPoseを使って体の関節の位置をを取得する（効率化するためにshスクリプトを用意した）  |
+|  10_openpose_result_merged.ipynb  |  video毎に感情カテゴリ毎の出力結果（csvファイル）をマージする  |
+|  10_preprocessing_openpose.ipynb  |  欠損値のある行を削除 |
+|  11b_features_selection_LR_ekman.ipynb  |  特徴量を少し選定して、アルゴリズムはロジスティック回帰を使用して、グリッドサーチを使用してモデルを探す（感情カテゴリはEkman）  |
+|  11b_features_selection_LR_group.ipynb  |  特徴量を少し選定して、アルゴリズムはロジスティック回帰を使用して、グリッドサーチを使用してモデルを探す（感情カテゴリはGroup）  |
+|  11b_features_selection_RF_ekman.ipynb  |  特徴量を少し選定して、アルゴリズムはランダムフォレストを使用して、グリッドサーチを使用してモデルを探す（感情カテゴリはEkman）  |
+|  11b_features_selection_RF_group.ipynb  |  特徴量を少し選定して、アルゴリズムはランダムフォレストを使用して、グリッドサーチを使用してモデルを探す（感情カテゴリはGroup）  |
+|  12a (申し訳ございませんが、無くしました。) |  OpenFaceとOpenPoseの出力結果(CSVファイル)をマージ  |
+|  12b_features_selection_LR_ekman_face_pose.ipynb  |  TD  |
+|  12b_features_selection_LR_group_face_pose.ipynb  |  TD  |
+|  12b_features_selection_RF_ekman_face_pose.ipynb  |  TD  |
+|  12b_features_selection_RF_group_face_pose.ipynb  |  TD  |
+|  TD  |  TD  |
+|  TD  |  TD  |
+|  TD  |  TD  |
+|  TD  |  TD  |
+|  TD  |  TD  |
+|  TD  |  TD  |
+|  TD  |  TD  |
+|  TD  |  TD  |
+|  TD  |  TD  |
+|  TD  |  TD  |
 |  TD  |  TD  |
 |  TD  |  TD  |
 |  TD  |  TD  |
