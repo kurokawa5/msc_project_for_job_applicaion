@@ -69,7 +69,10 @@ https://cmu-perceptual-computing-lab.github.io/openpose/web/html/doc/md_doc_02_o
 ### Implementation of Classification Models
 
 ユーザーの感情カテゴリーの7クラス分類と4クラス分類のモデルを作成する。
-比較的にスコアが良かったロジスティック回帰、ランダムフォレスト、3層ニューラルネットワークを代表としました。
+
+比較的にスコア（Accuracy）が良かったロジスティック回帰、ランダムフォレスト、3層ニューラルネットワークを代表として採用しました。
+
+SVMなども使用して分類してみましたが、スコアがそこまで伸びなかったです。
 
 ## Script
 使用したスクリプトの格納先は以下となります。
