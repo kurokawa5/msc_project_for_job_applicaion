@@ -48,7 +48,9 @@ Distinction
 学習・評価データの目的変数として用いる感情カテゴリを用意するため、英語字幕の1文に対して感情分析を行いました。
 その感情分析には、感情カテゴリをエクマンレベル(joy, anger, fear, sadness, disgust, and surprise)+ neutral とグループレベル(positive, negative, ambiguous) + neutralで分類したBERTベースの事前学習済みモデルを使用しました。
 
+※neutralは、感情カテゴリに分類できないような中立的なもの（迷ったらneutral行き）
 ※ambiguousは「驚き」みたいなネガティブよりもポジティブに近いもの
+
 
 <img src="https://user-images.githubusercontent.com/76276773/208846072-7c41dfc7-d613-469d-a32f-9b8ded8ccffa.png" width="600"> 
 
