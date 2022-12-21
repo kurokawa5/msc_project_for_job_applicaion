@@ -1,5 +1,7 @@
 ## Title
-Estimating user’s emotion from non-verbal behaviour in communication　（実際に作成した論文は[こちら](https://github.com/kurokawa5/msc_project_for_job_applicaion/blob/main/MSc_project_2548269m.pdf)）
+Estimating user’s emotion from non-verbal behaviour in communication
+
+（実際に作成した論文は[こちら](https://github.com/kurokawa5/msc_project_for_job_applicaion/blob/main/MSc_project_2548269m.pdf)）
 
 <img src="https://user-images.githubusercontent.com/76276773/208693371-e3718fff-0fb2-48af-b908-ce9af16fadcc.jpeg" width="600">
 
@@ -47,6 +49,10 @@ Distinction
 その感情分析には、感情カテゴリをエクマンレベル(joy, anger, fear, sadness, disgust, and surprise)+ neutral とグループレベル(positive, negative, ambiguous) + neutralで分類したBERTベースの事前学習済みモデルを使用しました。
 
 <img src="https://user-images.githubusercontent.com/76276773/208846072-7c41dfc7-d613-469d-a32f-9b8ded8ccffa.png" width="600"> 
+
+<img src="https://user-images.githubusercontent.com/76276773/208846533-7814be10-768d-45c3-9c00-071bccd075ea.png" width="600"> 
+
+<img src="https://user-images.githubusercontent.com/76276773/208846640-8917f0e1-0669-43fb-a338-69c403d59766.png" width="600"> 
 
 ## Script
 使用したスクリプトの格納先は以下となります。
