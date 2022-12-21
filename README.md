@@ -130,10 +130,10 @@ https://github.com/kurokawa5/msc_project_for_job_applicaion/tree/main/sh
 |  15_openface_openpose_3layer_nn_model_pytorch_group_ep100_ver1.0.ipynb  |  ニューラルネットワークのモデル作成（感情カテゴリはGroup）   |
 |  15_openface_openpose_3layer_nn_model_pytorch_group_ep300_ver1.0.ipynb  |  ニューラルネットワークのモデル作成（感情カテゴリはGroup）   |
 |  15_openface_openpose_3layer_nn_model_pytorch_group_ep600_ver1.0.ipynb  |  ニューラルネットワークのモデル作成（感情カテゴリはGroup）   |
-|  16_plot_confusion_matrix_ekman.ipynb  |  TD  |
-|  17_plot_confidence_face.ipynb  |  TD  |
-|  17_plot_confidence_pose_face.ipynb  |  TD  |
-|  17_plot_confidence_pose.ipynb  |  TD  |
+|  16_plot_confusion_matrix_ekman.ipynb  |  修論のためにconfusion matrixを用意  |
+|  17_plot_confidence_face.ipynb  |  修論のためにニューラルネットワークモデルの感情カテゴリ毎のconfidence値を図示  |
+|  17_plot_confidence_pose_face.ipynb  |  修論のためにニューラルネットワークモデルの感情カテゴリ毎のconfidence値を図示  |
+|  17_plot_confidence_pose.ipynb  |  修論のためにニューラルネットワークモデルの感情カテゴリ毎のconfidence値を図示  |
 
 
 ## 補足
