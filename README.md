@@ -85,8 +85,25 @@ https://github.com/kurokawa5/msc_project_for_job_applicaion/tree/main/python
 
 https://github.com/kurokawa5/msc_project_for_job_applicaion/tree/main/sh
 
-|  TH  |  TH  |
+|  Script名  |  役割  |
 | ---- | ---- |
+|  01_youtube_downloader.ipynb  | ライブラリ（pytube）を使って指定されたYoutube動画を取得する |
+|  02_organized_excel_file.ipynb  | 開始時刻と字幕文章が交互に並んで1列になっているものを、それぞれの列を用意し、整理する |
+|  03_adding_time_information.ipynb  |  字幕文章の終了時刻とその差分 （終了時刻 - 開始時刻）を算出する |
+|  04_emotion_extraction_from_subtitles.ipynb  |  事前に学習したBERTモデル(GoEmotions PyTorch)を用いて、すべての文に感情を付与する |
+|  05_ffmpeg.ipynb  |  再生時間や差分に応じて動画（mp4、avi）を感情カテゴリー毎に切り出す  |
+|  TD  |  TD  |
+|  TD  |  TD  |
+|  TD  |  TD  |
+|  TD  |  TD  |
+|  TD  |  TD  |
+|  TD  |  TD  |
+|  TD  |  TD  |
+|  TD  |  TD  |
+|  TD  |  TD  |
+|  TD  |  TD  |
+|  TD  |  TD  |
+|  TD  |  TD  |
 |  TD  |  TD  |
 |  TD  |  TD  |
 
