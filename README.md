@@ -54,6 +54,17 @@ Distinction
 
 <img src="https://user-images.githubusercontent.com/76276773/208846640-8917f0e1-0669-43fb-a338-69c403d59766.png" width="600"> 
 
+### Extracting the Facial Feature Points
+
+Output Format
+https://github.com/TadasBaltrusaitis/OpenFace/wiki/Output-Format
+
+### Extracting the Body Pose Feature Points
+
+OpenPose Doc - Output
+https://cmu-perceptual-computing-lab.github.io/openpose/web/html/doc/md_doc_02_output.html
+
+
 ## Script
 使用したスクリプトの格納先は以下となります。
 
