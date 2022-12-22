@@ -28,8 +28,6 @@ Distinction
 
 <img src="https://user-images.githubusercontent.com/76276773/208707374-2f369c1b-580f-4996-9d6d-2499299f71ba.png" width="700">
 
-以下、編集中
-
 ## Data Preparation
 
 ### データ収集
